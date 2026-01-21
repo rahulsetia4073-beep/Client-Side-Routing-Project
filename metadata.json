@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini Multi-Route Hub",
+  "description": "A high-performance React SPA demonstrating advanced client-side routing with HashRouter, lazy loading, and Gemini-powered features including a smart translator and a creative random content generator.",
+  "requestFramePermissions": []
+}
